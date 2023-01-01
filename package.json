@@ -8,6 +8,10 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "packageManager": "pnpm@7.19.0",
+  "engines": {
+    "npm": "This project is configured to use pnpm"
+  },
   "dependencies": {
     "@next/font": "13.0.7",
     "@types/node": "18.11.15",
